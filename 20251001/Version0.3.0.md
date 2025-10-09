@@ -1,4 +1,4 @@
-Version 0.3.0 by chatgpt
+by chatgpt
 
 
 目を開ける。見慣れた天井が、今日も日常だと言う。
